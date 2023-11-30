@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-LET_US_CODE/",
+    "build": "vite build --base=/93_js_Sign-maker/",
     "preview": "vite preview"
   },
   "devDependencies": {
